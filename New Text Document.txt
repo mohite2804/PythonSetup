@@ -1,0 +1,32 @@
+https://docs.djangoproject.com/en/4.0/intro/tutorial02/
+
+https://www.nintyzeros.com/2020/06/login-register-user%20page-in%20django.html
+
+
+https://themes.semicolonweb.com/html/canvas/index.html
+
+django-admin.py --version
+
+django-admin startproject admin
+python manage.py startapp front
+python manage.py runserver
+
+pip install mysqlclient
+
+python manage.py makemigrations
+python manage.py migrate
+
+python manage.py createsuperuser
+
+
+python manage.py migrate
+python manage.py createsuperuser
+
+
+
+django-admin startproject locallibrary
+
+
+pip install pillow
+
+python manage.py syncdb

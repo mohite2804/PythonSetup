@@ -1,0 +1,19 @@
+https://myapi.fyers.in/dashboard/
+https://myapi.fyers.in/docs/
+
+https://www.profitaddaweb.com/2020/07/fyers-api-utilize-free-of-cost-to.html
+
+https://myapi.fyers.in/docs/#section/Introduction
+
+App Id:
+CTHGZMLT8U-100
+
+Secret Id:
+05GM16LPGL
+
+Redirect URL:
+http://67e2-152-57-140-233.ngrok.io/login
+
+
+
+https://myapi.fyers.in/docs/?s=ok&code=200&auth_code=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJhcGkubG9naW4uZnllcnMuaW4iLCJpYXQiOjE2NDEwNjM2NTAsImV4cCI6MTY0MTA5MzY1MCwibmJmIjoxNjQxMDYzMDUwLCJhdWQiOiJbXCJ4OjBcIiwgXCJ4OjFcIiwgXCJ4OjJcIiwgXCJkOjFcIiwgXCJkOjJcIiwgXCJ4OjFcIiwgXCJ4OjBcIl0iLCJzdWIiOiJhdXRoX2NvZGUiLCJkaXNwbGF5X25hbWUiOiJYUDEyNTY0Iiwibm9uY2UiOiIiLCJhcHBfaWQiOiJDVEhHWk1MVDhVIiwidXVpZCI6IjlhYjZmNmI4YTkyNzQ1YjY5ZTNmY2M1ZTAwOWMxZjNmIiwiaXBBZGRyIjoiMC4wLjAuMCIsInNjb3BlIjoiIn0.iyNXOpyAIse6X_KaGB3oy_VX6-SZu6pH3qSCPvt9ZZ0&state=None
