@@ -11,13 +11,7 @@ def index(request):
 
 def generateAuthCode(request):
    
-    client_id = 'CTHGZMLT8U-100'
-    secret_key = '05GM16LPGL'
-    redirect_uri='https://myapi.fyers.in/docs/'
-    state = "MAHARASHTRA"
-    response_type = "code"
-    sample_nonce = "sample_nonce"
-    grant_type = "authorization_code"
+    
 
     session=accessToken.SessionModel(client_id=client_id,
     secret_key=secret_key,redirect_uri=redirect_uri, 
